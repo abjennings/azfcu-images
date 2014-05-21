@@ -1,2 +1,0 @@
-- No UI unless on applicable page.
-- Abort if "configure directory" error or image otherwise doesn't succeed.
