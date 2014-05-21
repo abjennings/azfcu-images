@@ -25,6 +25,6 @@ The extension will take control and download all check images on the visible pag
 
 **Todo**
 --------
- - UI that disappears or is disabled if you're not on the AZFCU activity page?
+ - Should the button disappear or be disabled if you're not on the AZFCU activity page?
  - Abort if "configure directory" error or image otherwise doesn't succeed
  - Add LICENSE file
