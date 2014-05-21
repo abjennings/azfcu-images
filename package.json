@@ -1,0 +1,14 @@
+{
+  "name": "azfcu-images",
+  "title": "AZFCU Image Downloader",
+  "id": "jid1-2kKSp27ELmQ9lQ",
+  "description": "Download all check images from AZFCU quickly",
+  "author": "Andrew Jennings",
+  "license": "MPL 2.0",
+  "version": "0.16",
+  "preferences": [{
+    "name": "directory",
+    "title": "Directory for images",
+    "type": "directory"
+  }]
+}
